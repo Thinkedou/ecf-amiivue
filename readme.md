@@ -1,4 +1,4 @@
-# Vue3 - Evaluation - Ynov Lyon
+# Vue3 - Evaluation - Sciences U Lyon
 
   
 
@@ -17,7 +17,6 @@ Découpez ensuite votre projet en composants
   
 
 > Sur l'index vous pouvez par exemple choisir d'afficher 3 amiibo au
-
 > hasard ou vos trois amiibo préférés
 
   
@@ -60,10 +59,9 @@ Il y a deux endpoints importants: récupérer une liste d'amiibo et récupérer 
  - Nommage, clean code, logique: 2pts 
 
 **Rendu**
-Si vous êtes à l'aise avec git: l'adresse du repo sous cette forme **nom-prenom-vue3**.git 
+L'adresse du repo sous cette forme **nom-prenom-vue3**.git 
 Sinon un zip (sans node_modules)
-Le tout à mon adresse remi.enguehard@ynov.com ou via moodle
-Heure limite: **13h**
+Heure limite: **14h**
 
 ```
 **Warning**
