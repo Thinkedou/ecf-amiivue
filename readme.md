@@ -99,10 +99,8 @@ Heure limite: **13h**
 
   
 
-```
+**Note**
+ This is a note
 
-*Warning*
-
-Il vaut mieux un projet qui build qu'un projet très propre mais qui ne compile pas
-
-```
+**Warning**
+ This is a warning
