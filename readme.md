@@ -97,10 +97,6 @@ Sinon un zip (sans node_modules)
 
 Heure limite: **13h**
 
-  
-
-> **Note**
-> This is a note
 
 > **Warning**
-> This is a warning
+> Il vaut mieux un petit projet qui build qu'un gros qui build pas
