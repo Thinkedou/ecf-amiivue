@@ -1,5 +1,5 @@
 
-# Vue3 - Evaluation - Sciences U Lyon
+# Vue3 - ECF - DWWM 2023
  
 
 Objectif: partir d'une maquette statique et faire un projet vue3 qui sollicite une api externe
