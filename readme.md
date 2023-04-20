@@ -75,10 +75,6 @@ Il y a deux endpoints importants: récupérer une liste d'amiibo et récupérer 
 
 ## Grille
 
-  
-
-  
-
 - Import des assets statics: 3pts
 
 - Gestion des routes: 3pts
@@ -99,13 +95,13 @@ L'adresse du repo sous cette forme **nom-prenom-vue3**.git
 
 Sinon un zip (sans node_modules)
 
-Heure limite: **14h**
+Heure limite: **13h**
 
   
 
 ```
 
-**Warning**
+*Warning*
 
 Il vaut mieux un projet qui build qu'un projet très propre mais qui ne compile pas
 
