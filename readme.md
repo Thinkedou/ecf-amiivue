@@ -78,17 +78,17 @@ Il y a deux endpoints importants: récupérer une liste d'amiibo et récupérer 
 
 ## Grille
 
-- Import des assets statics: 3pts
+- Import des assets statics
 
-- Gestion des routes: 3pts
+- Gestion des routes
 
-- Découpage composants: 3pts
+- Découpage composants
 
-- Récupération data from api: 6pts
+- Récupération data from api
 
-- Affichage des données de l'api: 3pts
+- Affichage des données de l'api
 
-- Nommage, clean code, logique: 2pts
+- Nommage, clean code, logique
 
   
 
@@ -100,6 +100,5 @@ Sinon un zip (sans node_modules)
 
 Durée: **2.5h**
 
-
-> **Warning**
+> [!WARNING]
 > Il vaut mieux un petit projet qui build qu'un gros qui build pas
