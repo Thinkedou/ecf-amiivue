@@ -1,15 +1,16 @@
 
-# Vue3 - ECF - DWWM 2023
+# Vue3 - Evaluation - Ynov B3- grpB
  
 
 Objectif: partir d'une maquette statique et faire un projet vue3 qui sollicite une api externe
-  
+
+Merci d'utiliser les notions vues en classe: la composition api, pinia et ky  
 
 # Le front
 
   
 ```sh
-npm init vue@latest
+npm init vue@latest nom-prenom-vue3
 > cd  <nom-prenom-vue3>  > npm install  > npm run dev
 ```
   
@@ -27,6 +28,8 @@ Découpez ensuite votre projet en composants
 > Sur l'index vous pouvez par exemple choisir d'afficher 3 amiibo au
 > hasard ou vos trois amiibo préférés
 
+> Sur la page avec le tableau merci d'afficher 10 amiibos maximun
+> Il est possible d'afficher plus d'amiibos via un bouton 
   
 
   
@@ -95,7 +98,7 @@ L'adresse du repo sous cette forme **nom-prenom-vue3**.git
 
 Sinon un zip (sans node_modules)
 
-Heure limite: **13h**
+Durée: **2.5h**
 
 
 > **Warning**
