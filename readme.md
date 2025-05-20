@@ -1,11 +1,8 @@
-
-# Vue3 - Evaluation - Ynov B3- grpB
+# Vue3 - ECF - DWWM - Décembre 2024
  
 
 Objectif: partir d'une maquette statique et faire un projet vue3 qui sollicite une api externe
-
-Merci d'utiliser les notions vues en classe: la composition api, pinia et ky  
-
+Merci d'utiliser les notions vues en classe 
 # Le front
 
   
@@ -96,9 +93,7 @@ Il y a deux endpoints importants: récupérer une liste d'amiibo et récupérer 
 
 L'adresse du repo sous cette forme **nom-prenom-vue3**.git
 
-Sinon un zip (sans node_modules)
-
-Durée: **2.5h**
+Durée: **3h**
 
 > [!WARNING]
 > Il vaut mieux un petit projet qui build qu'un gros qui build pas
