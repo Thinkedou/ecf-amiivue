@@ -24,6 +24,7 @@ Découpez ensuite votre projet en composants
 
 > Sur l'index vous pouvez par exemple choisir d'afficher 3 amiibo au
 > hasard ou vos trois amiibo préférés
+
 > Sur la page avec le tableau merci d'afficher 10 amiibos maximun
 > Il est possible d'afficher plus d'amiibos via un bouton 
   
